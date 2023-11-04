@@ -65,6 +65,8 @@ const MAPPING: &[(readkey::Keycode, Keycode)] = &[
     (readkey::Keycode::Keypad7, Keycode::Numpad7),
     (readkey::Keycode::Keypad8, Keycode::Numpad8),
     (readkey::Keycode::Keypad9, Keycode::Numpad9),
+    (readkey::Keycode::KeypadDecimal, Keycode::KeypadDecimal),
+    (readkey::Keycode::KeypadEnter, Keycode::KeypadEnter),
     (readkey::Keycode::KeypadPlus, Keycode::NumpadAdd),
     (readkey::Keycode::KeypadMinus, Keycode::NumpadSubtract),
     (readkey::Keycode::KeypadDivide, Keycode::NumpadDivide),

@@ -1,7 +1,5 @@
 # This is a fork of the original device_query
-It adds the distinction between LMeta and RMeta keys for Linux and Win
-
-
+It adds the distinction between LMeta and RMeta keys for Linux and Win.
 
 # device_query
 

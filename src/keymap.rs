@@ -55,6 +55,7 @@ pub enum Keycode {
     F10,
     F11,
     F12,
+    Numlock,
     Escape,
     Space,
     LControl,
@@ -97,6 +98,8 @@ pub enum Keycode {
     NumpadAdd,
     NumpadDivide,
     NumpadMultiply,
+    NumpadDecimal,
+    NumpadEnter,
 
     // The following keys names represent the position of the key in a US keyboard,
     // not the sign value. In a different keyboards and OS, the position can vary.
